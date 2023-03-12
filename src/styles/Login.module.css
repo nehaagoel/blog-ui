@@ -1,0 +1,33 @@
+.name{
+    display: flex;
+    margin: 5%;
+}
+
+.header{
+    text-align: center;
+    margin: 5%;
+}
+
+.form {
+    display: 'flex';
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25%;
+    margin-right: 30%;
+    padding: 5%;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: beige;
+    position: relative;
+  }
+
+.textField {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.button {
+    position: absolute;
+    width: 60%;
+}
